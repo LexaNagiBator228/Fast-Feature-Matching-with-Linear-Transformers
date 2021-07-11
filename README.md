@@ -2,8 +2,8 @@
 
 Implementation of Fast Feature Matching with Linear Transformers with Pytorch
 
-![alt text](./media/arc1.png)
 
+<img src="./media/arc1.png" width="858" height="425">
 
 ## How to use
 ### Image matching
