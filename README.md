@@ -27,3 +27,10 @@ If you want to incude visualization of matching :
 
 The resulting video will be saved in ./result
 ![alt text](./results/car.gif)
+
+
+## Comprising with SuperGlue
+
+| Number of keypoints per image | SuperGlue inference time (ms) | Our model inference time (ms) |
+| --- | --- | --- |
+| 128 | 41.1 | 10.1|
