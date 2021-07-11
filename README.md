@@ -32,11 +32,11 @@ The resulting video will be saved in ./result
 ## Comprising with SuperGlue
 
 | Number of keypoints per image | SuperGlue inference time (ms) | Our model inference time (ms) |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | 128 | 41.1 | 10.1|
 | 256 | 41.0 | 10.2|
 | 512 | 43.1 | 10.2|
 | 1024 | 55.7 | 10.3|
 | 2048 | 169.6 | 35.4|
 | 512 CPU | 180.5 | 35.4|
-![alt text](./results/Figure_time.png)
+![alt text](./results/Figure_time.png =250x250)
