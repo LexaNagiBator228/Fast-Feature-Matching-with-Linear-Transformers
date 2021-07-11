@@ -40,5 +40,5 @@ The resulting video will be saved in ./result
 | 2048 | 169.6 | 35.4|
 | 512 CPU | 180.5 | 35.4|
 
-<img src="./results/Figure_time.png" width="256" height="256">
+<img src="./results/Figure_time.png" width="512" height="512">
 
