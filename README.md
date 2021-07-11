@@ -39,4 +39,4 @@ The resulting video will be saved in ./result
 | 1024 | 55.7 | 10.3|
 | 2048 | 169.6 | 35.4|
 | 512 CPU | 180.5 | 35.4|
-![alt text](./results/Figure_time.png =250x250)
+![alt text](./results/Figure_time.png){:height="50%" width="50%"}
