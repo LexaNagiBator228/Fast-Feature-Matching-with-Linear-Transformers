@@ -12,6 +12,7 @@ For image matching run:
 - python demo_2_im.py  -v --image1_path='./media/im1.jpg'  --image2_path='./media/im2.jpg' 
 
 The resulting image will be saved in ./result
+
 Result:
 ![alt text](./results/res.jpg)
 
