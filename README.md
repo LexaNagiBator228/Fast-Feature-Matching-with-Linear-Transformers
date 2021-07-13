@@ -1,5 +1,6 @@
 # Fast Feature Matching with Linear Transformers
 
+Fast and memory efficient transformers based feature matching model 
 Implementation of Fast Feature Matching with Linear Transformers with Pytorch.
 
 
