@@ -1,10 +1,8 @@
 # Fast Feature Matching with Linear Transformers
 
 Fast and memory efficient transformers based feature matching model 
-Implementation of Fast Feature Matching with Linear Transformers with Pytorch.
 
-
-We propose methods to significantly reduce time spent for GNN, and completely remove Optimal Matching Layer while preserving similar matching  accuracy with SuperGlue
+We propose methods to significantly reduce time spent for GNN, and completely remove Optimal Matching Layer while preserving similar matching  accuracy with [SuperGlue](https://github.com/magicleap/SuperGluePretrainedNetwork)
 
 
 <img src="./media/arc1.png" width="640" height="320">
