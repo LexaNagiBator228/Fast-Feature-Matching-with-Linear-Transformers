@@ -1,7 +1,8 @@
 # Fast Feature Matching with Linear Transformers
 
-Fast and memory efficient transformers based feature matching model 
+Fast and memory efficient transformers based feature matching model.
 
+This is transformers based Deep Learning Nework that is trained to match 2 sets of sparse image features.
 We propose methods to significantly reduce time spent for GNN, and completely remove Optimal Matching Layer while preserving similar matching  accuracy with [SuperGlue](https://github.com/magicleap/SuperGluePretrainedNetwork)
 
 
